@@ -20,7 +20,8 @@ list_of_files = [
     "__init__.py",
     "exception.py",
     "logger.py",
-    "utils.py"   
+    "utils.py",
+    "setup.py"   
 ]
 
 for filepth in list_of_files:
